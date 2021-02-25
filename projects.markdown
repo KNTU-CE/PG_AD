@@ -8,5 +8,5 @@ permalink: /projects/
 
 | Chapter            | Project | Solution |
 |:-------------------|:--------|:---------|
-| Devide and Conquer | Not yet | Not yet  |
+| Divide and Conquer | Not yet | Not yet  |
 
