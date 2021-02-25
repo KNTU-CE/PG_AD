@@ -16,7 +16,7 @@ tree traversals), string matching, elements of computational geometry, NP comple
 
 ---
 ## Teacher 
-- #### Dr Hossein Shafiei
+- #### Dr.Hossein Shafiei
 
 --- 
 
