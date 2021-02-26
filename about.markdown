@@ -20,7 +20,7 @@ tree traversals), string matching, elements of computational geometry, NP comple
 
 --- 
 
-## Teacher Asistants
+## Teacher Assistants
 
 - #### Amirreza Sokhankhosh
 
