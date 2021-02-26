@@ -8,7 +8,7 @@ permalink: /homeworks/
 
 | Chapter            | Homework | Solution |
 |:-------------------|:---------|:---------|
-| Notation           | [Homework 1](https://amirrezasokhankhoshorg.github.io/PG_AD/documents/AD_3992_HW1.pdf)  | Not yet  |
+| Notation           | [Homework 1](https://kntu-ce.github.io/PG_AD/documents/AD_3992_HW1.pdf)  | Not yet  |
 |:-------------------|:---------|:---------|
 | Divide and Conquer | Not yet  | Not yet  |
 

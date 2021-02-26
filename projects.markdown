@@ -8,5 +8,5 @@ permalink: /projects/
 
 | Chapter            | Project | Solution |
 |:-------------------|:--------|:---------|
-| Divide and Conquer | [Project 1](https://amirrezasokhankhoshorg.github.io/PG_AD/documents/AD_3992_P1.pdf) | Not yet  |
+| Divide and Conquer | [Project 1](https://kntu-ce.github.io/PG_AD/documents/AD_3992_P1.pdf) | Not yet  |
 
