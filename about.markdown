@@ -15,7 +15,7 @@ programming and greedy algorithms, advanced data structures, graph algorithms (s
 tree traversals), string matching, elements of computational geometry, NP completeness.
 
 ---
-## Teacher 
+## Instructor 
 - #### Dr.Hossein Shafiei
 
 --- 
