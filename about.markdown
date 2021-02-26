@@ -35,3 +35,5 @@ tree traversals), string matching, elements of computational geometry, NP comple
 
 - #### Amin Shafiei
     [Github account](https://github.com/shamohamin)
+
+    [Linked in](https://www.linkedin.com/in/mohammad-amin-shafiee-6739b6175/)
