@@ -29,8 +29,6 @@ logo: /apple-touch-icon.png
 
 # Build settings
 theme: minima
-minima:
-  skin: dark
 plugins:
   - jekyll-feed
 
