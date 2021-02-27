@@ -23,7 +23,9 @@ tree traversals), string matching, elements of computational geometry, NP comple
 ## Teacher Assistants
 
 - #### Amirreza Sokhankhosh
-    <img src="https://kntu-ce.github.io/PG_AD/assets/images/Amirreza_Sokhankhosh.jpg" width="200" height="200"/>
+    ![AS]
+    [AS]: assets/images/Amirreza_Sokhankhosh.jpg
+    {: height="36px" width="36px"}
     [Github account](https://github.com/amirrezasokhankhosh)
 
     [Linked in](https://www.linkedin.com/in/amirreza-sokhankhosh-9b91901a8/)
