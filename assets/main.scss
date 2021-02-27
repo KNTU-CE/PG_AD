@@ -9,6 +9,5 @@ $background-color: #292424; /* a dark, off-black for the bg */
 $text-color: #eee8e8; /* an off-white for the text */
 $grey-color-light: #565656; /* for the border-top separators */
 $grey-color-dark: #adadad; /* such as the site title in the header, visited */
-$link-base-color: red;
 
 @import "{{ site.theme }}";
