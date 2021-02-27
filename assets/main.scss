@@ -5,10 +5,10 @@
  * the dashed lines above are required
  */
 
-$background-color: #241818; /* a dark, off-black for the bg */
+$background-color: #85c785; /* a dark, off-black for the bg */
 $text-color: #eee8e8; /* an off-white for the text */
 $grey-color-light: #565656; /* for the border-top separators */
 $grey-color-dark: #adadad; /* such as the site title in the header, visited */
-$brand-color: #dd1d1d
+$brand-color: #dd1d1d;
 
 @import "{{ site.theme }}";
