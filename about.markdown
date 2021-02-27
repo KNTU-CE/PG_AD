@@ -22,11 +22,11 @@ tree traversals), string matching, elements of computational geometry, NP comple
 
 ## Teacher Assistants
 
-- #### Amirreza Sokhankhosh
-    <img src='https://kntu-ce.github.io/PG_AD/assets/images/Amirreza_Sokhankhosh.jpg' width='150' height='150'>
-    [Github account](https://github.com/amirrezasokhankhosh)
 
-    [Linked in](https://www.linkedin.com/in/amirreza-sokhankhosh-9b91901a8/)
+<img src='https://kntu-ce.github.io/PG_AD/assets/images/Amirreza_Sokhankhosh.jpg' width='150' height='150'>
+#### Amirreza Sokhankhosh
+[Github account](https://github.com/amirrezasokhankhosh)
+[Linked in](https://www.linkedin.com/in/amirreza-sokhankhosh-9b91901a8/)
 
 - #### Sepehr Shahsavar
     [Github account](https://github.com/SepehrShahsavar)
