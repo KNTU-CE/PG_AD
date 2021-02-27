@@ -34,3 +34,4 @@ gem "webrick", "~> 1.7"
 gem 'jekyll-theme-cayman', '~> 0.1.1'
 
 gem "kramdown-parser-gfm"
+gem "jekyll-image-size"
