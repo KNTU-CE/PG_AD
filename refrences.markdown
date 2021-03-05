@@ -4,7 +4,8 @@ title: Refrences
 permalink: /refrences/
 ---
 
-## Main refrences
+---
+### Main refrences
 
 [Introduction to algorithms (CLRS)](https://kntu-ce.github.io/PG_AD/documents/CLRS.pdf)
 
@@ -12,9 +13,9 @@ permalink: /refrences/
 
 ---
 
-## Famous problems
+### Famous problems
 
-### Divide and Conquer
+#### Divide and Conquer
 
 [Binary Search](https://github.com/amirrezasokhankhosh/Binary-Search) -
 [Merge Sort](https://github.com/amirrezasokhankhosh/Merge-Sort) -
