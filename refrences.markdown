@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Refrences
-permalink: /refrences/
+title: References
+permalink: /references/
 ---
 
 ---
-### Main refrences
+### Main references
 
 [Introduction to algorithms (CLRS)](https://kntu-ce.github.io/PG_AD/documents/CLRS.pdf)
 
