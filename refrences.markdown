@@ -19,8 +19,6 @@ permalink: /references/
 
 [Binary Search](https://github.com/amirrezasokhankhosh/Binary-Search) -
 [Merge Sort](https://github.com/amirrezasokhankhosh/Merge-Sort) -
-[Maximum Subarray](https://github.com/amirrezasokhankhosh/Maximum_Subarray) - 
-[Strassen Algorithm](https://github.com/amirrezasokhankhosh/Strassen_Algorithm) -
 [Quick Sort](https://github.com/amirrezasokhankhosh/Quick_Sort)
 
 
