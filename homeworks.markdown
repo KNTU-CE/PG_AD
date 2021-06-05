@@ -14,4 +14,4 @@ permalink: /homeworks/
 |:-------------------|:---------|:---------|
 | Dynamic Programming | [Homework 3](https://kntu-ce.github.io/PG_AD/documents/AD_3992_HW3.pdf)  | Not yet  |
 |:-------------------|:---------|:---------|
-| Greedy | [Homework 3](https://kntu-ce.github.io/PG_AD/documents/AD_3992_HW4.pdf)  | Not yet  |
+| Greedy | [Homework 4](https://kntu-ce.github.io/PG_AD/documents/AD_3992_HW4.pdf)  | Not yet  |
