@@ -13,3 +13,5 @@ permalink: /homeworks/
 | Divide and Conquer | [Homework 2](https://kntu-ce.github.io/PG_AD/documents/AD_3992_HW2.pdf)  | [Solution](http:kntu-ce.github.io/PG_AD/documents/AD_3992_HW2_Sol.pdf)  |
 |:-------------------|:---------|:---------|
 | Dynamic Programming | [Homework 3](https://kntu-ce.github.io/PG_AD/documents/AD_3992_HW3.pdf)  | Not yet  |
+|:-------------------|:---------|:---------|
+| Greedy | [Homework 3](https://kntu-ce.github.io/PG_AD/documents/AD_3992_HW4.pdf)  | Not yet  |
