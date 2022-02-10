@@ -21,7 +21,7 @@ tree traversals), string matching, elements of computational geometry, NP comple
 --- 
 
 ## Teacher Assistants
-
+### Head Teacher Assistants
 - #### Amirreza Sokhankhosh
     [Github account](https://github.com/amirrezasokhankhosh)
 
@@ -36,3 +36,10 @@ tree traversals), string matching, elements of computational geometry, NP comple
     [Github account](https://github.com/shamohamin)
 
     [Linked in](https://www.linkedin.com/in/mohammad-amin-shafiee-6739b6175/)
+
+### Teacher Assistants
+- Negin Mohammadi
+    [Github account](https://github.com/NeginMohmmadi)
+
+- Tanaz Ghahremani
+    [Github account](https://github.com/tanazgh)
