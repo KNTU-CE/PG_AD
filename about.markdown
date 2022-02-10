@@ -38,8 +38,8 @@ tree traversals), string matching, elements of computational geometry, NP comple
     [Linked in](https://www.linkedin.com/in/mohammad-amin-shafiee-6739b6175/)
 
 ### Teacher Assistants
-- Negin Mohammadi
+- #### Negin Mohammadi
     [Github account](https://github.com/NeginMohmmadi)
 
-- Tanaz Ghahremani
+- #### Tanaz Ghahremani
     [Github account](https://github.com/tanazgh)
