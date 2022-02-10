@@ -41,5 +41,8 @@ tree traversals), string matching, elements of computational geometry, NP comple
 - #### Negin Mohammadi
     [Github account](https://github.com/NeginMohmmadi)
 
+    [negiiinn.nm@gmail.com](mailto:negiiinn.nm@gmail.com)
+
 - #### Tanaz Ghahremani
     [Github account](https://github.com/tanazgh)
+    
